@@ -110,7 +110,7 @@ export default function SignIn() {
     <div className="min-h-screen bg-background">
       <Header />
       
-      <main className="container mx-auto flex items-center justify-center min-h-[calc(100vh-3.5rem)] px-4 py-8">
+      <main className="container mx-auto flex items-center justify-center min-h-[calc(100vh-3.5rem)] px-4 py-8 sm:px-6 lg:px-8">
         <Card className="w-full max-w-md">
           <CardHeader className="text-center">
             <CardTitle className="text-2xl">Welcome</CardTitle>

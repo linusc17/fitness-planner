@@ -107,7 +107,7 @@ export default function GenerateMealPlan() {
     return (
       <div className="min-h-screen bg-background">
         <Header />
-        <main className="container mx-auto px-4 py-8">
+        <main className="container mx-auto px-4 py-8 sm:px-6 lg:px-8">
           <div>Loading...</div>
         </main>
       </div>
